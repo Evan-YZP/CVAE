@@ -1,0 +1,2 @@
+model_checkpoint_path: "e:\\YZP\\experience\\var_AE\\cvae_model\\cvae.ckpt"
+all_model_checkpoint_paths: "e:\\YZP\\experience\\var_AE\\cvae_model\\cvae.ckpt"
